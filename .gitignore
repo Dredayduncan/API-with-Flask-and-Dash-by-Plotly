@@ -178,7 +178,7 @@ instance/
 .webassets-cache
 
 #JSON FILE:
-.ABAStats.json
+.FABA APP/ABAStats.json
 
 # Scrapy stuff:
 .scrapy
