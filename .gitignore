@@ -179,6 +179,7 @@ instance/
 
 #JSON FILE:
 .FABA APP/ABAStats.json
+.json
 
 # Scrapy stuff:
 .scrapy
