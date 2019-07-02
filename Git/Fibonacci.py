@@ -16,6 +16,5 @@ def fibonacci(nterms):
             second = nth
             count += 1
 
-print(fibonacci(6))
 
 
